@@ -10,6 +10,7 @@ class BbsApplicationTests {
     void contextLoads() {
         System.out.println("abc");
         System.out.println("qweqw");
+        System.out.println("qk");
     }
 
 }
