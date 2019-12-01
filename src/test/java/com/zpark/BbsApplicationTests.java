@@ -9,6 +9,7 @@ class BbsApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("abc");
+        System.out.println("qk")
     }
 
 }
